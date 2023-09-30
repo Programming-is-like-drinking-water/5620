@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="6e521413-4d1f-4991-9896-0768146e11ed" />
+          <option name="name" value="create_table" />
+          <option name="dbmsName" value="MARIADB" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/springboot-advanced-template/src/main/resources/create_table.sql" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
